@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#313E55</color>
+    <color name="colorPrimaryDark">#1B2230</color>
+    <color name="colorAccent">#86294C</color>
+    <color name="spannable_text_color">#242424</color>
+    <color name="background_color">#617A97</color>
+    <color name="translate_color">#313E55</color>
+</resources>
